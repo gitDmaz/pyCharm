@@ -7,3 +7,4 @@ simple_interest = (principal * rate * time) / 100
 
 # Printing the Simple Interest
 print("Simple Interest = ", simple_interest)
+print("debdatta")
